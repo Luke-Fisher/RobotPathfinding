@@ -43,5 +43,6 @@ The robots will move all the way from start to finish one at a time. For example
 If the goal is unreachible for one of the robots, the program will terminate.
 
                                       ******************OUTPUT******************
-
 The program will print two versions of the room: one with the path taken by the first robot displayed, and one with the path of the second robot displayed. We decided to display the paths this way rather than superimposing them to improve path visibility. The paths taken are represented by that robot's start symbol, and the finish spot by that robot's finish spot.
+                                      ******************CREDIT******************
+Luke Fisher, Yacheslav Sidorov, Bryan Nguyen, Byron 
